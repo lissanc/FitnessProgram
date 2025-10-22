@@ -1,0 +1,139 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FitnessProgram
+build_property.RootNamespace = FitnessProgram
+build_property.ProjectDir = /Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/Exercises/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXhlcmNpc2VzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/Exercises/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXhlcmNpc2VzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/Exercises/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXhlcmNpc2VzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/Exercises/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXhlcmNpc2VzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/Exercises/Exercises.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXhlcmNpc2VzL0V4ZXJjaXNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/Exercises/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXhlcmNpc2VzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/FitnessPlans/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRml0bmVzc1BsYW5zL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/FitnessPlans/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRml0bmVzc1BsYW5zL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/FitnessPlans/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRml0bmVzc1BsYW5zL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/FitnessPlans/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRml0bmVzc1BsYW5zL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/FitnessPlans/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRml0bmVzc1BsYW5zL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/GymEquipment/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR3ltRXF1aXBtZW50L0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/GymEquipment/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR3ltRXF1aXBtZW50L0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/GymEquipment/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR3ltRXF1aXBtZW50L0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/GymEquipment/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR3ltRXF1aXBtZW50L0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/GymEquipment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR3ltRXF1aXBtZW50L0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/Trainers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVHJhaW5lcnMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/Trainers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVHJhaW5lcnMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/Trainers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVHJhaW5lcnMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/Trainers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVHJhaW5lcnMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/Trainers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVHJhaW5lcnMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisbettesanchez/Desktop/CPTR319/FitnessProgram/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rw4lbgta9i

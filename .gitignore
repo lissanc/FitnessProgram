@@ -1,0 +1,35 @@
+# Ignore build outputs
+bin/
+obj/
+out/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore Rider and VS Code settings
+.vscode/
+.idea/
+
+# Ignore environment & secret files
+secrets.json
+.env
+.env.*
+
+# Ignore ASP.NET publish outputs
+*.Publish.xml
+*.pubxml
+publish/
+
+# Ignore local database files (optional)
+*.mdf
+*.ldf
+
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
+packages/
