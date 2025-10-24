@@ -33,3 +33,5 @@ publish/
 # Dependency directories
 node_modules/
 packages/
+
+.fake
