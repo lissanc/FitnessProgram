@@ -3,6 +3,13 @@ bin/
 obj/
 out/
 
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+
+
 # Ignore user-specific files
 *.user
 *.suo
