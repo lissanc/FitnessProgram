@@ -1,8 +1,6 @@
 # Ignore build outputs
-bin/
-obj/
-out/
 
+out/
 bin/
 obj/
 *.dll
@@ -29,10 +27,6 @@ secrets.json
 *.Publish.xml
 *.pubxml
 publish/
-
-# Ignore local database files (optional)
-*.mdf
-*.ldf
 
 # Logs
 *.log
