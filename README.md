@@ -1,5 +1,8 @@
 # Fitness Program 
 
+**Live:** [View Here](https://fitnessprogram-h0hch3b7f3dtgsba.eastus-01.azurewebsites.net/)
+
+
 A simple ASP.NET Core Razor Pages web application for managing fitness-related data.  
 
 This project demonstrates basic **CRUD (Create, Read, Update, Delete)** functionality using **Entity Framework Core** with a **SQL Server** database.  
@@ -22,6 +25,5 @@ It demonstrates how multiple tables can be related and managed in a web applicat
 - .NET  
 - Entity Framework Core  
 - SQL Server  
-
 
 This is a **personal project**. It is not intended for production use.
